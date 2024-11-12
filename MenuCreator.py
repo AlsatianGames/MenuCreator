@@ -5,7 +5,7 @@ import pandas as pd
 import asyncio
 
 # Configuración del bot de Telegram
-TOKEN = '7649089471:AAFamHjRy6sY-HoAe5JNsqOTEM7TdR-vG30'
+TOKEN = ''
 CHAT_ID = None  # Inicialmente vacío, se obtendrá al inicio
 
 # Límite diario de nutrientes
